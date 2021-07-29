@@ -3014,3 +3014,45 @@ JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.j
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
 1627568016996	Marionette	INFO	Listening on port 59246
 1627568017403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627568685677	geckodriver	INFO	Listening on 127.0.0.1:63167
+1627568688691	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilebkBPte"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627568690838	Marionette	INFO	Listening on port 63175
+1627568690953	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 2868, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1627568852997	geckodriver	INFO	Listening on 127.0.0.1:56696
+1627568856023	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilefAYFOZ"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627568858490	Marionette	INFO	Listening on port 56704
+1627568858727	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 1016, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627568932069	geckodriver	INFO	Listening on 127.0.0.1:49765
+1627568935106	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilegmtck2"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627568937322	Marionette	INFO	Listening on port 49773
+1627568937812	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
