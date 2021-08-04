@@ -25173,3 +25173,72 @@ bail@chrome://marionette/content/sync.js:196:64
 1628072757370	Marionette	INFO	Stopped listening on port 49464
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
 [Parent 8048, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1628075416834	geckodriver	INFO	Listening on 127.0.0.1:57336
+1628075422578	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofile59zbOr"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1628075425117	Marionette	INFO	Listening on port 57344
+1628075425316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628075425326	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.175.66.204:7777","httpProxy":"107.175.66.204:7777","sslProxy":"107.175.66.204:7777"}
+1628075457630	geckodriver	INFO	Listening on 127.0.0.1:62726
+1628075463425	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofileRebXxi"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1628075466027	Marionette	INFO	Listening on port 62736
+1628075466149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628075466161	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.175.66.204:7777","httpProxy":"107.175.66.204:7777","sslProxy":"107.175.66.204:7777"}
+1628075487382	geckodriver	INFO	Listening on 127.0.0.1:65190
+1628075493076	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofilez4CKxd"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1628075495569	Marionette	INFO	Listening on port 65198
+1628075495798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628075495810	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.175.66.204:7777","httpProxy":"107.175.66.204:7777","sslProxy":"107.175.66.204:7777"}
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+1628075515842	Marionette	INFO	Stopped listening on port 65198
+1628075549883	geckodriver	INFO	Listening on 127.0.0.1:52915
+1628075738818	geckodriver	INFO	Listening on 127.0.0.1:56736
+1628075744640	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofilenplPLW"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1628075747235	Marionette	INFO	Listening on port 56744
+1628075747389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628075747397	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.175.66.204:7777","httpProxy":"107.175.66.204:7777","sslProxy":"107.175.66.204:7777"}
+1628075763721	geckodriver	INFO	Listening on 127.0.0.1:54802
+1628075769470	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofilee5WwHs"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1628075771933	Marionette	INFO	Listening on port 54811
+1628075772196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628075772206	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.175.66.204:7777","httpProxy":"107.175.66.204:7777","sslProxy":"107.175.66.204:7777"}
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Child 4716, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1628075783586	Marionette	INFO	Stopped listening on port 54811
+1628076122837	geckodriver	INFO	Listening on 127.0.0.1:55626
+1628076125851	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofilebbzotP"
+1628076126514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofilebbzotP\\search.json.mozlz4", (void 0)))
+1628076128798	Marionette	INFO	Listening on port 55634
+1628076129126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1628076174555	geckodriver	INFO	Listening on 127.0.0.1:57720
+1628076177576	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofiledCrH74"
+1628076178137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofiledCrH74\\search.json.mozlz4", (void 0)))
+1628076180258	Marionette	INFO	Listening on port 57728
+1628076180338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+1628076221721	geckodriver	INFO	Listening on 127.0.0.1:63522
+1628076224736	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofileP5J5jv"
+1628076225273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\opc\\AppData\\Local\\Temp\\2\\rust_mozprofileP5J5jv\\search.json.mozlz4", (void 0)))
+1628076227314	Marionette	INFO	Listening on port 63531
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
