@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['app.py'],
-             pathex=['C:\\Users\\Salman\\Desktop\\Repporting_app_yahoo-main\\Reporting_app_yahoo'],
+             pathex=['C:\\Users\\opc\\Desktop\\reporting_app_yahoo'],
              binaries=[],
              datas=[('templates', 'templates'), ('paths', 'paths')],
              hiddenimports=[],
